@@ -53,44 +53,72 @@ class AsifAli:
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis"><img src="assets/projects/hospital.svg" alt="🏥 Hospital OPD Wait-Time Analysis banner" width="100%"></a>
-      <h4>🏥 Hospital OPD Wait-Time Analysis</h4>
-      <i>Built alongside my HIS IT role, public Kaggle dataset</i><br>
-      End-to-end analytics on <b>5,000 OPD visits</b>: SQL and pandas cleaning, 9 business questions, 3 regression models (Random Forest best, MAE ≈ 27 min) and a 3-page Power BI dashboard.<br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt=""> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection"><img src="assets/projects/driver.svg" alt="🚗 Driver Drowsiness Detection banner" width="100%"></a>
-      <h4>🚗 Driver Drowsiness Detection</h4>
-      <i>B.Tech final-year project, supervised by Dr. Mohd. Abdul Ahad</i><br>
-      Real-time drowsiness and yawning detection with a fine-tuned YOLOv8 on images, video and webcam. <b>98.0% mAP@0.5</b> on the validation set.<br><br>
-      <img src="https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square" alt=""> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection"><b>View repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8"><img src="assets/projects/yolo.svg" alt="⚔️ YOLOv5 vs YOLOv8 banner" width="100%"></a>
-      <h4>⚔️ YOLOv5 vs YOLOv8</h4>
-      <i>B.Tech project, supervised by Dr. Mohd. Abdul Ahad</i><br>
-      Same custom 12-class dataset, same recipe, side-by-side metrics and detections. Near-identical mAP (0.718 vs 0.721), YOLOv8 more confident on most shared objects.<br><br>
-      <img src="https://img.shields.io/badge/YOLOv5-F59E0B?style=flat-square" alt=""> <img src="https://img.shields.io/badge/YOLOv8-22D3EE?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/License-Plate-Recognition"><img src="assets/projects/lpr.svg" alt="🔎 License Plate Recognition banner" width="100%"></a>
-      <h4>🔎 License Plate Recognition</h4>
-      <i>Self-made project from my B.Tech years</i><br>
-      Seven-step OpenCV pipeline (bilateral filter, Canny, contours) plus EasyOCR to locate and read number plates. Proof of concept tested on five sample vehicles.<br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/License-Plate-Recognition"><b>View repository →</b></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis"><img src="assets/projects/hospital.svg" alt="Hospital OPD Wait-Time Analysis & Prediction banner" width="100%"></a>
+
+### 🏥 Hospital OPD Wait-Time Analysis & Prediction
+<sub>Built alongside my HIS IT role · public Kaggle dataset, not employer data</sub>
+
+End-to-end analytics project on **5,000 OPD visits**: from raw data to a model and a dashboard a hospital manager can read.
+
+- **Data prep:** SQL and pandas cleaning, 9 business questions answered
+- **Modelling:** 3 regression models tuned with GridSearchCV, Random Forest best (**MAE ≈ 27 min**)
+- **Dashboard:** 3-page Power BI report for wait-time drivers
+- **Honest limits:** findings and caveats are documented in the repo
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt=""> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square" alt=""> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt="">
+
+**[View repository →](https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis)**
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<a href="https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection"><img src="assets/projects/driver.svg" alt="Driver Drowsiness Detection banner" width="100%"></a>
+
+### 🚗 Driver Drowsiness Detection
+<sub>B.Tech final-year project (2024) · supervised by Dr. Mohd. Abdul Ahad, Dept. of CSE, Jamia Hamdard</sub>
+
+Real-time detection of drowsiness and yawning with a fine-tuned **YOLOv8**, running on images, video and live webcam.
+
+- **Result:** 98.0% mAP@0.5 on the validation set
+- **Inputs:** image, video file and webcam modes
+- **Stack:** Ultralytics YOLOv8, PyTorch, OpenCV
+
+<img src="https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square" alt=""> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt="">
+
+**[View repository →](https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection)**
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<a href="https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8"><img src="assets/projects/yolo.svg" alt="YOLOv5 vs YOLOv8: Custom Object Detection banner" width="100%"></a>
+
+### ⚔️ YOLOv5 vs YOLOv8: Custom Object Detection
+<sub>B.Tech project (2023) · supervised by Dr. Mohd. Abdul Ahad, Dept. of CSE, Jamia Hamdard</sub>
+
+A like-for-like comparison: same custom **12-class dataset**, same training recipe, compared on metrics and on the same test images.
+
+- **Metrics:** near-identical mAP@0.5 (0.718 vs 0.721)
+- **Detections:** YOLOv8 more confident on 12 of 25 shared detections and avoided one wrong-class error
+- **Honest scope:** one run on a small dataset, a practical comparison, not a benchmark
+
+<img src="https://img.shields.io/badge/YOLOv5-F59E0B?style=flat-square" alt=""> <img src="https://img.shields.io/badge/YOLOv8-22D3EE?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square" alt=""> <img src="https://img.shields.io/badge/LabelImg-6B7280?style=flat-square" alt="">
+
+**[View repository →](https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8)**
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<a href="https://github.com/ALI-ASIF-GIT/License-Plate-Recognition"><img src="assets/projects/lpr.svg" alt="License Plate Recognition banner" width="100%"></a>
+
+### 🔎 License Plate Recognition
+<sub>Self-made project from my B.Tech years</sub>
+
+A classical computer-vision pipeline that finds the number plate in a photo and reads it with OCR.
+
+- **Pipeline (7 steps):** capture, grayscale, bilateral filter, Canny edges, contour approximation, plate crop, EasyOCR
+- **Honest scope:** proof of concept tested on five sample vehicles
+- **Stack:** OpenCV, EasyOCR, Python, Jupyter
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" alt="">
+
+**[View repository →](https://github.com/ALI-ASIF-GIT/License-Plate-Recognition)**
 
 <img src="assets/divider.svg" alt="" width="100%">
 
