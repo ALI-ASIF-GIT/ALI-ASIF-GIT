@@ -116,6 +116,8 @@ A classical computer-vision pipeline that finds the number plate in a photo and 
 - **Honest scope:** proof of concept tested on five sample vehicles
 - **Stack:** OpenCV, EasyOCR, Python, Jupyter
 
+<p align="center"><img src="assets/lpr-results.gif" alt="License plate recognition results: MH13BN8454 and PO6KY86 read exactly" width="85%"></p>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square" alt="">
 
 **[View repository →](https://github.com/ALI-ASIF-GIT/License-Plate-Recognition)**
