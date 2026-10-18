@@ -1,156 +1,79 @@
-<img src="assets/header.svg" alt="Asif Ali: Data Analyst, Computer Vision and AI/ML, Healthcare IT" width="100%">
+<div align="center">
 
-<img src="assets/roles.svg" alt="Data Analyst, Computer Vision, AI/ML, Healthcare IT" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Asif%20Ali&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Computer%20Vision%20%7C%20AI%2FML&descAlignY=60&descSize=18" width="100%"/>
 
-<p align="center">
-  Turning <b>hospital data</b> into decisions and models.<br>
-  I analyse operational data with <b>SQL, Python and Power BI</b>, and build <b>computer-vision systems</b> with YOLO and OpenCV.
-</p>
+<a href="https://github.com/ALI-ASIF-GIT">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=640&lines=I+turn+hospital+data+into+decisions;and+camera+frames+into+detections.;Healthcare+IT+%2B+Data+%2B+Vision;Open+to+work+%E2%80%94+New+Delhi" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://linkedin.com/in/asif-ali-083202208"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:asifaliali0989191@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://ali-asif-git.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Work-22C55E?style=for-the-badge" alt="Open to work">
-</p>
+<br/>
 
-<img src="assets/kpi.svg" alt="Impact: 40% less manual reporting, 25% better data handling, 5,000 OPD visits analysed, 98.0% mAP@0.5" width="100%">
+[![Portfolio](https://img.shields.io/badge/Portfolio-aliasif--dev.web.app-2C5364?style=for-the-badge&logo=firebase&logoColor=white)](https://aliasif-dev.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asif-ali-083202208)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifaliali0989191@gmail.com)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge)
 
-<img src="assets/divider.svg" alt="" width="100%">
+</div>
 
-## 👋 About me
+---
 
-```python
-class AsifAli:
-    role      = "Junior Assistant, HIS IT @ HIMSR / HAHC Hospital"
-    education = "B.Tech CSE (AI), Jamia Hamdard, CGPA 8.74"
-    location  = "New Delhi, India"
-    works_on  = ["SQL reporting", "OPD / IPD data", "EMR modules"]
-    builds    = ["Power BI dashboards", "YOLO detectors", "ML models"]
-    looking_for = "Data Analyst / Computer Vision / AI-ML roles"
+## 👋 About
 
-    def mindset(self):
-        return "Clean data first, then clever models. Report limits honestly."
+- 🏥 Junior Assistant, **HIS IT** at HIMSR & HAHC Hospital, New Delhi (since May 2025)
+- 🎓 B.Tech CSE (AI), Jamia Hamdard, **CGPA 8.74**
+- 🎯 Looking for **Data Analyst / Computer Vision / AI-ML / Data Scientist** roles
+- 📊 Built SQL reporting pipelines that cut manual reporting effort by ~40%
+
+## 🔄 How I Work
+
+```mermaid
+flowchart LR
+    A[🏥 Real Data<br/>HIS / EMR / Images] --> B[🧹 Clean & Explore<br/>SQL · pandas]
+    B --> C[🤖 Model<br/>scikit-learn · YOLO]
+    C --> D[📈 Evaluate<br/>Metrics + Caveats]
+    D --> E[📊 Deliver<br/>Power BI · Reports]
+    E -.feedback.-> A
 ```
 
-| 🔭 Building | 🌱 Learning | 💼 Looking for |
-|---|---|---|
-| Healthcare analytics and CV portfolio projects | Deeper ML, MLOps basics, model evaluation | Entry-level Data Analyst, CV and AI/ML roles |
+## 🚀 Featured Projects
 
-<img src="assets/timeline.svg" alt="Journey: B.Tech 2020, graduated 2024, certifications, HIS IT 2025, portfolio projects" width="100%">
+| Project | What it does | Stack | Result |
+|---|---|---|---|
+| [🏥 Hospital OPD Wait-Time Analysis](https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis) | 5,000 OPD visits: SQL, prediction model, Power BI dashboard | Python · SQL · pandas · scikit-learn · Power BI | MAE ≈ 27 min |
+| [😴 Driver Drowsiness Detection](https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection) | Detects drowsy/yawning drivers in image, video, webcam | YOLOv8 · OpenCV · PyTorch | 98.0% mAP@0.5 |
+| [⚔️ YOLOv5 vs YOLOv8](https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8) | Same 12-class dataset, same recipe, side-by-side | YOLOv5 · YOLOv8 · Colab | 0.718 vs 0.721 mAP |
+| [🚗 License Plate Recognition](https://github.com/ALI-ASIF-GIT/License-Plate-Recognition) | 7-step pipeline: locate plate, read with OCR | OpenCV · EasyOCR | Proof of concept |
 
-<img src="assets/divider.svg" alt="" width="100%">
+## 🛠️ Tech Stack
 
-## What I do
-
-| 📊 Data Analytics | 👁️ Computer Vision & ML | 🏥 Healthcare IT |
-|---|---|---|
-| SQL reporting, data cleaning, EDA | Object detection with YOLOv5 / YOLOv8 | Hospital Information System (HIS) and EMR modules |
-| Power BI dashboards for stakeholders | Real-time inference with OpenCV | OPD / IPD data workflows, LAN and HIS support |
-| Predictive models with scikit-learn | Transfer learning, model comparison | Reporting automation, process stabilisation |
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis"><img src="assets/projects/hospital.svg" alt="🏥 Hospital OPD Wait-Time Analysis banner" width="100%"></a>
-      <h4>🏥 Hospital OPD Wait-Time Analysis</h4>
-      <i>Built alongside my HIS IT role, public Kaggle dataset</i><br>
-      End-to-end analytics on <b>5,000 OPD visits</b>: SQL and pandas cleaning, 9 business questions, 3 regression models (Random Forest best, MAE ≈ 27 min) and a 3-page Power BI dashboard.<br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square" alt=""> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/hospital-opd-wait-time-analysis"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection"><img src="assets/projects/driver.svg" alt="🚗 Driver Drowsiness Detection banner" width="100%"></a>
-      <h4>🚗 Driver Drowsiness Detection</h4>
-      <i>B.Tech final-year project, supervised by Dr. Mohd. Abdul Ahad</i><br>
-      Real-time drowsiness and yawning detection with a fine-tuned YOLOv8 on images, video and webcam. <b>98.0% mAP@0.5</b> on the validation set.<br><br>
-      <img src="https://img.shields.io/badge/YOLOv8-00B8D4?style=flat-square" alt=""> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/driver-drowsiness-detection"><b>View repository →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8"><img src="assets/projects/yolo.svg" alt="⚔️ YOLOv5 vs YOLOv8 banner" width="100%"></a>
-      <h4>⚔️ YOLOv5 vs YOLOv8</h4>
-      <i>B.Tech project, supervised by Dr. Mohd. Abdul Ahad</i><br>
-      Same custom 12-class dataset, same recipe, side-by-side metrics and detections. Near-identical mAP (0.718 vs 0.721), YOLOv8 more confident on most shared objects.<br><br>
-      <img src="https://img.shields.io/badge/YOLOv5-F59E0B?style=flat-square" alt=""> <img src="https://img.shields.io/badge/YOLOv8-22D3EE?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/Comparison-on-Custom-Object-Detection-using-YOLOv5-and-YOLOv8"><b>View repository →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ALI-ASIF-GIT/License-Plate-Recognition"><img src="assets/projects/lpr.svg" alt="🔎 License Plate Recognition banner" width="100%"></a>
-      <h4>🔎 License Plate Recognition</h4>
-      <i>Self-made project from my B.Tech years</i><br>
-      Seven-step OpenCV pipeline (bilateral filter, Canny, contours) plus EasyOCR to locate and read number plates. Proof of concept tested on five sample vehicles.<br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" alt=""> <img src="https://img.shields.io/badge/EasyOCR-2E7D32?style=flat-square" alt=""> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt=""><br><br>
-      <a href="https://github.com/ALI-ASIF-GIT/License-Plate-Recognition"><b>View repository →</b></a>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## Tech Stack
-
-<p align="center"><img src="https://skillicons.dev/icons?i=py,mysql,cpp,c,r,dart,flutter,firebase,pytorch,tensorflow,opencv,git,github,vscode&theme=dark&perline=7" alt="Tech stack icons"></p>
-
-**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Data & BI** &nbsp;
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**AI / ML** &nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv5%20%7C%20YOLOv8-111F68?style=flat-square)
-
-**Tools** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<img src="assets/divider.svg" alt="" width="100%">
+## 📜 Certificates
 
-## Experience
+- Google Data Analytics (Oct 2024)
+- Google AI Essentials (Oct 2024)
+- Getting Started with Deep Learning, NVIDIA (Nov 2024)
 
-**Junior Assistant, HIS IT** · Hamdard Institute of Medical Sciences & Research (HIMSR) and HAHC Hospital · *May 2025 to present*
+<div align="center">
 
-- Manage core **HIS and EMR modules** (OPD, IPD, Reports), improving data-handling efficiency by about 25%.
-- Built **automated SQL reporting pipelines**, cutting manual reporting effort by about 40%.
-- Proposed AI-based triage automation concepts for real hospital workflows.
-- Resolved LAN and HIS access issues to keep systems up for clinical staff; stabilised POS payment operations.
+**Hiring for data or vision work? [Let's talk →](https://aliasif-dev.web.app/#contact)**
 
-## Education & Certifications
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
-| | |
-|---|---|
-| 🎓 **B.Tech, CSE (Artificial Intelligence)** | Jamia Hamdard, New Delhi · 2020 to 2024 · CGPA 8.74 / 10 |
-| 📜 Google Data Analytics | Coursera · Oct 2024 |
-| 📜 Google AI Essentials | Coursera · Oct 2024 |
-| 📜 Getting Started with Deep Learning | NVIDIA · Nov 2024 |
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## Let's connect
-
-I'm looking for **Data Analyst, Computer Vision and AI/ML roles** where healthcare-grade data discipline meets applied machine learning. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/asif-ali-083202208) or [email](mailto:asifaliali0989191@gmail.com).
-
-<img src="assets/footer.svg" alt="Open to Data Analyst, Computer Vision and AI/ML roles" width="100%">
+</div>
